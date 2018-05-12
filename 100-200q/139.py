@@ -25,5 +25,5 @@ class Solution(object):
         	for j in range(i, -1, -1):
         		if dp[j] and s[j:i+1] in wordDict:
         			dp[i+1] = True
-        			wordBreak
+        			break
         return dp[len(s)]
