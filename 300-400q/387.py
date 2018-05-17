@@ -16,10 +16,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        if not s:
-        	return -1
-
-        for index, char in enumerate(s):
-        	if s.count(char) == 1:
-        		return index
-        return -1
+        letters='abcdefghijklmnopqrstuvwxyz'
+        index=[s.index(l) for l in letters if s.count(l) == 1]
+        return min(index) if len(index) > 0 else -1
