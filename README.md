@@ -4,7 +4,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/). The problem 
 
 ### LeetCode Algorithm
 
-
+##### [Problems 300-400](./300-400q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./300-400q/387.py)|Easy|
