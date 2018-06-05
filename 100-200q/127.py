@@ -39,7 +39,7 @@ class Solution(object):
         			d[s].append(word)
         		else:
         			d[s] = [word]
-
+        print d
         queue, visited = [], set()
         queue.append((beginWord, 1))
         while queue:
@@ -60,3 +60,5 @@ class Solution(object):
 	        				if neigh not in visited:
 	        					queue.append((neigh, steps+1))
         return 0
+
+Solution().ladderLength("hit", "cog", ["hot","dot","dog","lot","log","cog"]  )

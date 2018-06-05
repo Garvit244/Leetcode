@@ -21,6 +21,10 @@ class Solution(object):
         dp = [[False for _ in range(len(p) + 1)] for _ in range(len(s) + 1)]
         dp[0][0] = True
 
+ 		for index in range(1, len(dp[0])):
+            if p[index-1] == '*':
+                dp[0][index] = dp[0][index - 2]
+                
         for index_i in range(1, len(dp)):
         	for index_j in range(1, len(dp[0])):
         		if s[index_i - 1] == p[index_j - 1] or p[index_j - 1] == '.':

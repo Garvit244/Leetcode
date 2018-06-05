@@ -55,3 +55,50 @@ class Solution:
     				queue.append(front.right)
     		elif queue:
     			queue.append(None)
+
+
+# Definition for binary tree with next pointer.
+# class TreeLinkNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+#         self.next = None
+
+class Solution:
+    # @param root, a tree link node
+    # @return nothing
+    def connect(self, root):
+    	if not root:
+    		return None
+
+    	root.next = None
+
+    	while root:
+    		temp = root
+    		while temp:
+    			if temp.left:
+    				if temp.right:
+    					temp.left.next = temp.right
+    				else:
+    					temp.left.next = self.getNext(temp)
+    			if temp.right:
+    				temp.right.next = self.getNext(temp)
+
+    			temp = temp.next
+    		if root.left:
+    			root = root.left
+    		elif root.right:
+    			root = root.right
+    		else:
+    			root = self.getNext(root)
+
+    def getNext(self, node):
+    	node = node.next
+    	while node:
+    		if node.left:
+    			return node.left
+    		if node.right:
+    			return node.right
+    		node = node.next
+    	return None
