@@ -28,6 +28,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |289|[Game of Life](https://leetcode.com/problems/game-of-life) | [Python](/200-300/289.py)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [Python](./200-300/287.py)|Hard|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](./200-300/279.py)|Medium|
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Python](./200-300q/253.py)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](./200-300/240.py)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [Python](./200-300/239.py)|Hard|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Python](./200-300/238.py)|Medium|
