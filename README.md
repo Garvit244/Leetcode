@@ -53,7 +53,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./100-200q/160.py)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Python](./100-200q/155.py)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [Python](./100-200q/152.py)|Medium|
-|150|[Evaluate Reverse Polish Notation]()https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./100-200q/150.py)|Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./100-200q/150.py)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [Python](./100-200q/148.py)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [Python](./100-200q/147.py)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Python](./100-200q/146.py)|Hard|
