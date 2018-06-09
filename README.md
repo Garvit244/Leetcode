@@ -24,9 +24,12 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Python](./200-300q/300.py)|Medium|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Python](./200-300q/297.py)|Hard|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Python](./200-300q/295.py)|Hard|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life) | [Python](/200-300q/289.py)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [Python](./200-300q/287.py)|Hard|
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | [Python](./200-300q/285.py)|Medium|
+|283|[Move Zeros](https://leetcode.com/problems/move-zeroes)|[Python](./200-300q/283.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](./200-300q/279.py)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[Python](./200-300q/268.py)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Python](./200-300q/253.py)|Medium|
