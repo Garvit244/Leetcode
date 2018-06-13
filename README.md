@@ -84,6 +84,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| [Python](./100-200q/115.py)|Hard|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Python](./100-200q/113.py)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [Python](./100-200q/112.py)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./100-200q/111.py)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./100-200q/108.py)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](./100-200q/107.py)|Easy|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](./100-200q/106.py)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](./100-200q/105.py)|Medium|
