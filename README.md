@@ -96,6 +96,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1-100](./1-100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[Python](./1-100q/99.py)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [Python](./1-100q/98.py)|Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [Python](./1-100q/97.py)|Hard|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](./1-100q/95.py)|Medium|
