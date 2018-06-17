@@ -18,7 +18,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./300-400q/326.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./300-400q/322.py)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](./300-400q/315.py)|Hard|
-
+|301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Python](./300-400q/301.py)|Hard|
 
 ##### [Problems 200-300q](./200-300q/)
 | # | Title | Solution | Difficulty |
@@ -32,6 +32,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes)|[Python](./200-300q/283.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](./200-300q/279.py)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[Python](./200-300q/268.py)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)[Python](./200-300q/257.py)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Python](./200-300q/253.py)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](./200-300q/240.py)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [Python](./200-300q/239.py)|Hard|
