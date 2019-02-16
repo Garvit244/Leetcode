@@ -4,6 +4,20 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 ### LeetCode Algorithm
 
+##### [Problems 900-1000](./900-1000q/)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Python](./900-1000q/991.py)|Medium|
+|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Python](./900-1000q/990.py)|Medium|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./900-1000q/989.py)|Easy|
+|988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Python](./900-1000q/988.py)|Medium|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python](./900-1000q/985.py)|Easy|
+|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [Python](./900-1000q/984.py)|Easy|
+|983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python](./900-1000q/983.py)|Medium|
+|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Python](./900-1000q/981.py)|Medium|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./900-1000q/977.py)|Easy|
+
+
 ##### [Problems 300-400](./300-400q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
