@@ -7,8 +7,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 900-1000](./900-1000q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python] | (./900-1000q/994.py)|Easy|
-|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python]|(./900-1000q/993.py)|Easy|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./900-1000q/994.py)|Easy|
+|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](./900-1000q/993.py)|Easy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Python](./900-1000q/991.py)|Medium|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Python](./900-1000q/990.py)|Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./900-1000q/989.py)|Easy|
