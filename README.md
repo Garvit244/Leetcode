@@ -49,7 +49,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes)|[Python](./200-300q/283.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](./200-300q/279.py)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[Python](./200-300q/268.py)|Easy|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)[Python](./200-300q/257.py)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Python](./200-300q/257.py)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Python](./200-300q/253.py)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](./200-300q/240.py)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [Python](./200-300q/239.py)|Hard|
