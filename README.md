@@ -7,6 +7,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 900-1000](./900-1000q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](./900-1000q/999.py)|Medium|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii) | [Python](./900-1000q/998.py) | Easy|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](./900-1000q/997.py) | Easy|
+|995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Python](./900-1000q/995.py) | Hard|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./900-1000q/994.py)|Easy|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](./900-1000q/993.py)|Easy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Python](./900-1000q/991.py)|Medium|
