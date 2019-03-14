@@ -4,6 +4,11 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 ### LeetCode Algorithm
 
+##### [Problems 1000-1100](./1000-1100q/)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Python](./1000-1100q/1002.py)|Easy|
+
 ##### [Problems 900-1000](./900-1000q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
