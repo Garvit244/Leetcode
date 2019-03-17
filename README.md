@@ -8,6 +8,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Python](./1000-1100q/1002.py)|Easy|
+|1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./1000-1100q/1014.py) | Medium|
 
 ##### [Problems 900-1000](./900-1000q/)
 | # | Title | Solution | Difficulty |
@@ -28,6 +29,11 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Python](./900-1000q/981.py)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./900-1000q/977.py)|Easy|
 
+
+##### [Problems 400-500](./400-500q/)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./400-500q/410.py)|Hard|
 
 ##### [Problems 300-400](./300-400q/)
 | # | Title | Solution | Difficulty |
