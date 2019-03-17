@@ -35,8 +35,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 400-500](./400-500q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./400-500q/410.py)|Hard|
-|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./400-500q/454.py)|Medium|
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./400-500Q/410.py)|Hard|
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./400-500Q/454.py)|Medium|
 
 ##### [Problems 300-400](./300-400q/)
 | # | Title | Solution | Difficulty |
