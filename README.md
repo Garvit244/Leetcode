@@ -7,8 +7,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Python](./1000-1100q/1002.py)|Easy|
 |1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./1000-1100q/1014.py) | Medium|
+|1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](./1000-1100q/1013.py)|Easy|
+|1012|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](./1000-1100q/1012.py)|Easy|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Python](./1000-1100q/1002.py)|Easy|
 
 ##### [Problems 900-1000](./900-1000q/)
 | # | Title | Solution | Difficulty |
