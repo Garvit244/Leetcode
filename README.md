@@ -7,6 +7,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1023|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|[Python](./1000-1100q/1023.py)|Medium|
+|1022|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)|[Python](./1000-1100q/1022.py)|Medium|
+|1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|[Python](./1000-1100q/1021.py)|Medium|
+|1020|[Partition Array Into Three Parts With Equal Sum ](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Python](./1000-1100q/1020.py)|Easy|
 |1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./1000-1100q/1014.py) | Medium|
 |1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](./1000-1100q/1013.py)|Easy|
 |1012|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](./1000-1100q/1012.py)|Easy|
