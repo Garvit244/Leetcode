@@ -14,6 +14,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./1000-1100q/1014.py) | Medium|
 |1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](./1000-1100q/1013.py)|Easy|
 |1012|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](./1000-1100q/1012.py)|Easy|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Python](./1000-1100q/1008.py)|Medium|
+|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|[Python](./1000-1100q/1007.py)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|[Python](./1000-1100q/1004.py)|Medium|
 |1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|[Python](./1000-1100q/1003.py)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Python](./1000-1100q/1002.py)|Easy|
