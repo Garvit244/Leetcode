@@ -16,7 +16,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |1013|[Partition Array Into Three Parts With Equal Sum ](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Python](./1000-1100q/1013.py)|Easy|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./1000-1100q/1011.py) | Medium|
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](./1000-1100q/1010.py)|Easy|
-|1012|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](./1000-1100q/1012.py)|Easy|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](./1000-1100q/1009.py)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Python](./1000-1100q/1008.py)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|[Python](./1000-1100q/1007.py)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|[Python](./1000-1100q/1004.py)|Medium|
