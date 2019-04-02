@@ -1,51 +1,51 @@
 '''
-In a list of songs, the i-th song has a duration of time[i] seconds. 
+Given an array A of integers, return true if and only if we can partition the array into three non-empty parts with equal sums.
 
-Return the number of pairs of songs for which their total duration in seconds is divisible by 60.  Formally, we want the number of indices i < j with (time[i] + time[j]) % 60 == 0.
+Formally, we can partition the array if we can find indexes i+1 < j with (A[0] + A[1] + ... + A[i] == A[i+1] + A[i+2] + ... + A[j-1] == A[j] + A[j-1] + ... + A[A.length - 1])
 
  
 
 Example 1:
 
-Input: [30,20,150,100,40]
-Output: 3
-Explanation: Three pairs have a total duration divisible by 60:
-(time[0] = 30, time[2] = 150): total duration 180
-(time[1] = 20, time[3] = 100): total duration 120
-(time[1] = 20, time[4] = 40): total duration 60
+Input: [0,2,1,-6,6,-7,9,1,2,0,1]
+Output: true
+Explanation: 0 + 2 + 1 = -6 + 6 - 7 + 9 + 1 = 2 + 0 + 1
 Example 2:
 
-Input: [60,60,60]
-Output: 3
-Explanation: All three pairs have a total duration of 120, which is divisible by 60.
+Input: [0,2,1,-6,6,7,9,-1,2,0,1]
+Output: false
+Example 3:
+
+Input: [3,3,6,5,-2,2,5,1,-9,4]
+Output: true
+Explanation: 3 + 3 = 6 = 5 - 2 + 2 + 5 + 1 - 9 + 4
+ 
 
 Note:
 
-1 <= time.length <= 60000
-1 <= time[i] <= 500
+3 <= A.length <= 50000
+-10000 <= A[i] <= 10000
 '''
 
 class Solution(object):
-    def numPairsDivisibleBy60(self, time):
+    def canThreePartsEqualSum(self, A):
         """
-        :type time: List[int]
-        :rtype: int
+        :type A: List[int]
+        :rtype: bool
         """
-        count_arr = [0]*60
-        result = 0
-        for t in time:
-            remainder = t%60
-            complement = (60-remainder)%60
-            result += count_arr[complement]
-            count_arr[remainder] += 1
-        return result
- 
- '''
-	Explanation: 
-	Q1: why create array of size 60? 
-		it is similar to the map which store the count. Why only 60 because 60 modulo of number cannot be more than 60
-	Q2: why we need complement?
-		to check the pair if it exisit with given value or not example: if remainder is 20 then we need to check if we have any number with remainder 40 or not.
-	Q3: why 60 modulo complement?
-		for handle cause when remainder is zero 
- '''
+        total_sum = 0
+        for val in A:
+            total_sum += val
+            
+        if(total_sum%3 != 0):
+            return False
+        
+        curr_sum, groups = 0, 0
+        for val in A:
+            curr_sum += val
+            if curr_sum == total_sum/3:
+                curr_sum = 0
+                groups +=1
+        print groups
+        return groups == 3
+            

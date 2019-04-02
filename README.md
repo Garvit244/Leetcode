@@ -7,12 +7,15 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1023|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|[Python](./1000-1100q/1023.py)|Medium|
-|1022|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)|[Python](./1000-1100q/1022.py)|Medium|
-|1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|[Python](./1000-1100q/1021.py)|Medium|
-|1020|[Partition Array Into Three Parts With Equal Sum ](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Python](./1000-1100q/1020.py)|Easy|
-|1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./1000-1100q/1014.py) | Medium|
-|1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](./1000-1100q/1013.py)|Easy|
+|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list)|[Python](./1000-1100q/1019.py)|Medium|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)|[Python](./1000-1100q/1018.py)|Easy|
+|1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2)|[Python](./1000-1100q/1017.py)|Medium|
+|1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|[Python](./1000-1100q/1016.py)|Medium|
+|1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)|[Python](./1000-1100q/1015.py)|Medium|
+|1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|[Python](./1000-1100q/1014.py)|Medium|
+|1013|[Partition Array Into Three Parts With Equal Sum ](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [Python](./1000-1100q/1013.py)|Easy|
+|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./1000-1100q/1011.py) | Medium|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](./1000-1100q/1010.py)|Easy|
 |1012|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](./1000-1100q/1012.py)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Python](./1000-1100q/1008.py)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|[Python](./1000-1100q/1007.py)|Medium|
