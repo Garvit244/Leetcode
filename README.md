@@ -7,9 +7,14 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|[Python](./1000-1100q/1028.py)|Hard|
+|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence)|[Python](./1000-1100q/1027.py)|Medium|
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|[Python](./1000-1100q/1026.py)|Medium|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](./1000-1100q/1025.py)|Easy|
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching)|[Python](./1000-1100q/1023.py)|Medium|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Python](./1000-1100q/1022.py)|Easy|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[Python](./1000-1100q/1021.py)|Easy|
+|1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves)|[Python](./1000-1100q/1020.py)|Medium|
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list)|[Python](./1000-1100q/1019.py)|Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5)|[Python](./1000-1100q/1018.py)|Easy|
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2)|[Python](./1000-1100q/1017.py)|Medium|
