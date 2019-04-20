@@ -27,6 +27,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](./1000-1100q/1009.py)|Easy|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Python](./1000-1100q/1008.py)|Medium|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|[Python](./1000-1100q/1007.py)|Medium|
+|1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial)|[Python](./1000-1100q/1006.py)|Medium|
+|1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|[Python](./1000-1100q/1005.py)|Easy|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|[Python](./1000-1100q/1004.py)|Medium|
 |1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|[Python](./1000-1100q/1003.py)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Python](./1000-1100q/1002.py)|Easy|
