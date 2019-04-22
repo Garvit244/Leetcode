@@ -7,6 +7,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters)|[Python](./1000-1100q/1032.py)|Hard|
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|[Python](./1000-1100q/1031.py)|Medium|
+|1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order)|[Python](./1000-1100/1030.py)|Easy|
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)|[Python](./1000-1100q/1029.py)|Easy|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|[Python](./1000-1100q/1028.py)|Hard|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence)|[Python](./1000-1100q/1027.py)|Medium|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|[Python](./1000-1100q/1026.py)|Medium|
