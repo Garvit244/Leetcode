@@ -118,8 +118,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Python](./100-200q/191.py)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | [Python](./100-200q/179.py)|Medium|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)|[Python](./100-200q/173.py)|Medium|
+|170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|[Python](./100-200q/170.py)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./100-200q/162.py)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./100-200q/160.py)|Easy|
+|159|[Longest Substring Which Contains 2 Unique Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|[Python](./100-200q/159.py)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Python](./100-200q/155.py)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [Python](./100-200q/152.py)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./100-200q/150.py)|Medium|
