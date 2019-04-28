@@ -7,6 +7,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](./1000-1100q/1035.py)|Medium|
+|1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Python](./1000-1100q/1034.py)|Medium|
+|1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|[Python](./1000-1100q/1033.py)|Easy
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters)|[Python](./1000-1100q/1032.py)|Hard|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|[Python](./1000-1100q/1031.py)|Medium|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order)|[Python](./1000-1100/1030.py)|Easy|
