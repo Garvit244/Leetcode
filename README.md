@@ -7,6 +7,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|[Python](./1000-1100q/1039.py)|Medium|
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python](./1000-1100q/1038.py)|Medium|
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python](./1000-1100q/1037.py)|Easy|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](./1000-1100q/1035.py)|Medium|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|[Python](./1000-1100q/1034.py)|Medium|
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|[Python](./1000-1100q/1033.py)|Easy
