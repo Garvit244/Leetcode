@@ -61,7 +61,13 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python](./900-1000q/983.py)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Python](./900-1000q/981.py)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./900-1000q/977.py)|Easy|
+|926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)|[Python](./900-1000q/926.py)|Medium|
 
+##### [Problems 600-700](./600-700q/)
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python](./600-700q/673.py)|Medium|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Python](./600-700/674.py)|Easy|
 
 ##### [Problems 400-500](./400-500q/)
 | # | Title | Solution | Difficulty |
@@ -231,6 +237,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](./1-100q/17.py)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Python](./1-100q/16.py)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [Python](./1-100q/15.py)|Medium|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Python](./1-100q/14.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Python](./1-100q/11.py)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [Python](./1-100q/10.py)|Hard|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [Python](./1-100q/06.py)|Easy|
