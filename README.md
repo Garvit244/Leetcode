@@ -2,13 +2,14 @@
 
 Python solution of problems from [LeetCode](https://leetcode.com/).
 
-### LeetCode Algorithm
-
-##### [Extra](./Extra/)
+##### [Extra Algorithms](./Extra/)
 | # | Title | Solution |
 |---| ----- | -------- | 
 |1|Suffix Array|[Python](./Extra/suffix_array.py)|
 |2|Longest Common Prefix|[Python](./Extra/lcp.py)|
+
+### LeetCode Algorithm
+
 
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
