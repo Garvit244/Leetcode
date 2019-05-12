@@ -5,7 +5,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ### LeetCode Algorithm
 
 ##### [Extra](./Extra/)
- # | Title | Solution |
+| # | Title | Solution |
 |---| ----- | -------- | 
 |1|Suffix Array|[Python](./Extra/suffix_array.py)|
 |2|Longest Common Prefix|[Python](./Extra/lcp.py)|
