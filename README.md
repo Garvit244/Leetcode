@@ -4,9 +4,16 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 ### LeetCode Algorithm
 
+##### [Extra](./Extra/)
+ # | Title | Solution |
+|---| ----- | -------- | 
+|1|Suffix Array|[Python](./Extra/suffix_array.py)|
+|2|Longest Common Prefix|[Python](./Extra/lcp.py)|
+
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring)|[Python](./1000-1100q/1044.py)|Hard|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|[Python](./1000-1100q/1039.py)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python](./1000-1100q/1038.py)|Medium|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python](./1000-1100q/1037.py)|Easy|
