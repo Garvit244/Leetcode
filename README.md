@@ -14,6 +14,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring)|[Python](./1000-1100q/1044.py)|Hard|
+|1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](./1000-1100q/1043.py)|Medium|
+|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|[Python](./1000-1100q/1042.py)|Easy|
+|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle)|[Python](./1000-1100q/1041.py)|Easy|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)|[Python](./1000-1100q/1039.py)|Medium|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python](./1000-1100q/1038.py)|Medium|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Python](./1000-1100q/1037.py)|Easy|
