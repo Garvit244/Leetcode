@@ -1,5 +1,6 @@
-# Python solution for Leetcode
+![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-343%2F1040-yellowgreen.svg)
 
+# Python solution for Leetcode
 Python solution of problems from [LeetCode](https://leetcode.com/).
 
 ##### [Extra Algorithms](./Extra/)
