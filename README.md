@@ -82,7 +82,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python](./600-700q/673.py)|Medium|
 
 
-##### [Problems 400-500](./400-500q/)
+##### [Problems 400-500](./400-500Q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./400-500Q/454.py)|Medium|
