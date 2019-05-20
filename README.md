@@ -15,6 +15,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain)|[Python](./1000-1100q/1048.py)|Medium|
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Python](./1000-1100q/1047.py)|Easy|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|[Python](./1000-1100q/1046.py)|Easy|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring)|[Python](./1000-1100q/1044.py)|Hard|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](./1000-1100q/1043.py)|Medium|
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|[Python](./1000-1100q/1042.py)|Easy|
