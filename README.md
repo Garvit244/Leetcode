@@ -89,6 +89,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./400-500Q/454.py)|Medium|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python](./400-500q/448.py)|Easy|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Python](./400-500q/442.py)|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./400-500Q/410.py)|Hard|
 
 
