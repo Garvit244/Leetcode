@@ -241,6 +241,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](./1-100q/40.py)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](./1-100q/39.py)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [Python](./1-100q/38.py)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Python](./1-100q/36.py)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [Python](./1-100q/34.py)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](./1-100q/33.py)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Python](./1-100q/32.py)|Hard|
