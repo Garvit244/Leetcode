@@ -97,11 +97,13 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 300-400](./300-400q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path)|[Python](./300-400q/388.py)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./300-400q/387.py)|Easy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./300-400q/380.py)|Hard|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Python](./300-400q/378.py)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./300-400q/350.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./300-400q/347.py)|Medium|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|[Python](./300-400q/340.py)|Hard|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./300-400q/334.py)|Medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](./300-400q/332.py)|Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python](./300-400q/329.py)|Medium|
