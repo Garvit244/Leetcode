@@ -15,6 +15,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes)|[Python](./1000-1100q/1054.py)|Medium|	
+|1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap)|[Python](./1000-1100/1053.py)|Medium|
+|1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner)|[Python](./1000-1100q/1052.py)|Medium|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker)|[Python](./1000-1100q/1051.py)|Easy|	
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain)|[Python](./1000-1100q/1048.py)|Medium|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Python](./1000-1100q/1047.py)|Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|[Python](./1000-1100q/1046.py)|Easy|
