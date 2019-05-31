@@ -85,6 +85,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 600-700](./600-700q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|681|[Next Closest Time ](https://leetcode.com/problems/next-closest-time)|[Python](./600-700q/681.py)|Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Python](./600-700/674.py)|Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python](./600-700q/673.py)|Medium|
 
@@ -92,6 +93,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 400-500](./400-500Q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|[Python](./400-500q/482.py)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./400-500Q/454.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python](./400-500q/448.py)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Python](./400-500q/442.py)|Easy|
