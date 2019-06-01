@@ -97,6 +97,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](./400-500Q/454.py)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python](./400-500q/448.py)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Python](./400-500q/442.py)|Easy|
+|418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting)|[Python](./400-500q/418.py)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./400-500Q/410.py)|Hard|
 
 
@@ -109,6 +110,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Python](./300-400q/378.py)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./300-400q/350.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./300-400q/347.py)|Medium|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)|[Python](./300-400q/346.py)|Easy|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|[Python](./300-400q/340.py)|Hard|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./300-400q/334.py)|Medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](./300-400q/332.py)|Medium|
@@ -117,18 +119,21 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./300-400q/326.py)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./300-400q/322.py)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Python](./300-400q/315.py)|Hard|
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)|[Python](./300-400q/307.py)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|[Python](./300-400q/301.py)|Hard|
 
 ##### [Problems 200-300q](./200-300q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Python](./200-300q/300.py)|Medium|
+|298|[Binary Tree Longest Consecutive Sequence ](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|[Python](./200-300q/298.py)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Python](./200-300q/297.py)|Hard|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Python](./200-300q/295.py)|Hard|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life) | [Python](/200-300q/289.py)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [Python](./200-300q/287.py)|Hard|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | [Python](./200-300q/285.py)|Medium|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes)|[Python](./200-300q/283.py)|Easy|
+|281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator)|[Python](./200-300q/281.py)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](./200-300q/279.py)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[Python](./200-300q/268.py)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Python](./200-300q/257.py)|Easy|
