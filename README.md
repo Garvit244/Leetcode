@@ -15,6 +15,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string)|[Python](./1000-1100q/1065.py)|Easy|
+|1064|[Fixed Point](https://leetcode.com/problems/fixed-point)|[Python](./1000-1100q/1064.py)|Easy|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes)|[Python](./1000-1100q/1054.py)|Medium|	
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap)|[Python](./1000-1100q/1053.py)|Medium|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner)|[Python](./1000-1100q/1052.py)|Medium|
