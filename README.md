@@ -15,6 +15,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|[Python](./1000-1100q/1071.py)|Easy|
 |1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string)|[Python](./1000-1100q/1065.py)|Easy|
 |1064|[Fixed Point](https://leetcode.com/problems/fixed-point)|[Python](./1000-1100q/1064.py)|Easy|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes)|[Python](./1000-1100q/1054.py)|Medium|	
