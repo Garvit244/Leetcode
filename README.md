@@ -15,6 +15,18 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1089|[]
+|1088|[]
+|1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion)|[Python](./1000-1100q/1087.py)|Medium|
+|1086|[High Five](https://leetcode.com/problems/high-five)|[Python](./1000-1100q/1086.py)|Medium|
+|1085|[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|[Python](./1000-1100q/1085.py)|Medium|
+|1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|[Python](./1000-1100q/1081.py)|Medium|
+|1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|[Python](./1000-1100q/1080.py)|Medium|
+|1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities)|[Python](./1000-1100q/1079.py)|Medium|
+|1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram)|[Python](./1000-1100q/1078.py)|Easy|
+|1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Python](./1000-1100q/1074.py)|Hard|
+|1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|[Python](./1000-1100q/1073.py)|Medium|
+|1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|[Python](./1000-1100q/1072.py)|Medium|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|[Python](./1000-1100q/1071.py)|Easy|
 |1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string)|[Python](./1000-1100q/1065.py)|Easy|
 |1064|[Fixed Point](https://leetcode.com/problems/fixed-point)|[Python](./1000-1100q/1064.py)|Easy|
