@@ -15,7 +15,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1089|[]
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|[Python](./1000-1100q/1091.py)|Medium|
+|1090|[Largest Values From Labels ](https://leetcode.com/problems/largest-values-from-labels)|[Python](./1000-1100q/1090.py)|Medium|
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|[Python](./1000-1100q/1089.py)|Easy|
 |1088|[]
 |1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion)|[Python](./1000-1100q/1087.py)|Medium|
 |1086|[High Five](https://leetcode.com/problems/high-five)|[Python](./1000-1100q/1086.py)|Medium|
