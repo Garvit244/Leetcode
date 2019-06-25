@@ -15,10 +15,11 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)|[Python](./1000-1100q/1092.py)|Hard|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|[Python](./1000-1100q/1091.py)|Medium|
 |1090|[Largest Values From Labels ](https://leetcode.com/problems/largest-values-from-labels)|[Python](./1000-1100q/1090.py)|Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|[Python](./1000-1100q/1089.py)|Easy|
-|1088|[]
+|1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii)|[Python](./1000-1100q/1088.py)|Hard|
 |1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion)|[Python](./1000-1100q/1087.py)|Medium|
 |1086|[High Five](https://leetcode.com/problems/high-five)|[Python](./1000-1100q/1086.py)|Medium|
 |1085|[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|[Python](./1000-1100q/1085.py)|Medium|
