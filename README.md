@@ -12,6 +12,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ### LeetCode Algorithm
 
 
+##### [Problems 1100-1200](./1100-1200q/)
+
+
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
