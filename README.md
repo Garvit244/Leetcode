@@ -13,7 +13,11 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 
 ##### [Problems 1100-1200](./1100-1200q/)
-
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[Python](./1100-1200q/1186.py)|Medium|
+|1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Python](./1100-1200q/1185.py)|Easy|
+|1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Python](./1100-1200q/1184.py)|Easy|
 
 ##### [Problems 1000-1100](./1000-1100q/)
 | # | Title | Solution | Difficulty |
