@@ -15,6 +15,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1100-1200](./1100-1200q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)|[Python](./1100-1200q/1191.py)|Medium|
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python](./1100-1200q/1190.py)|Medium|
+|1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](./1100-1200q/1189.py)|Easy|
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[Python](./1100-1200q/1186.py)|Medium|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Python](./1100-1200q/1185.py)|Easy|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Python](./1100-1200q/1184.py)|Easy|
