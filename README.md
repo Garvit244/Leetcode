@@ -14,6 +14,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1100-1200](./1200-1300q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python](./1200-1300q/1268.py)|Medium|
+|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[Python](./1200-1300q/1267.py)|Medium|
+|1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python](./1200-1300q/1266.py)|Easy|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Python](./1200-1300q/1200.py)|Easy|
 
 ##### [Problems 1100-1200](./1100-1200q/)
