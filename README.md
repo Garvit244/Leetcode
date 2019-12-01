@@ -14,6 +14,9 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1100-1200](./1200-1300q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./1200-1300q/1277.py)|Medium|
+|1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|[Python](./1200-1300q/1276.py)|Medium|
+|1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Python](./1200-1300q/1275.py)|Easy|
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python](./1200-1300q/1268.py)|Medium|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[Python](./1200-1300q/1267.py)|Medium|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python](./1200-1300q/1266.py)|Easy|
