@@ -14,6 +14,11 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1100-1200](./1200-1300q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./1200-1300q/1291.py)|Medium|
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./1200-1300q/1290.py)|Easy|
+|1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Python](./1200-1300q/1283.py)|Medium|
+|1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](./1200-1300q/1282.py)|Medium|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](./1200-1300q/1281.py)|Easy|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./1200-1300q/1277.py)|Medium|
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)|[Python](./1200-1300q/1276.py)|Medium|
 |1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Python](./1200-1300q/1275.py)|Easy|
