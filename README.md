@@ -14,6 +14,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 ##### [Problems 1100-1200](./1200-1300q/)
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Python](./1200-1300q/1296.py)|Medium|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./1200-1300q/1295.py)|Easy|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./1200-1300q/1291.py)|Medium|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](./1200-1300q/1290.py)|Easy|
 |1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Python](./1200-1300q/1283.py)|Medium|
