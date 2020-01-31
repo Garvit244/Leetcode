@@ -156,6 +156,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Python](./300-400q/378.py)|Medium|
 |361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy)|[Python](./300-400q/361.py)|Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./300-400q/350.py)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](./300-400q/349.py) | Easy | 
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./300-400q/347.py)|Medium|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)|[Python](./300-400q/346.py)|Easy|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|[Python](./300-400q/340.py)|Hard|
