@@ -133,6 +133,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |681|[Next Closest Time ](https://leetcode.com/problems/next-closest-time)|[Python](./600-700q/681.py)|Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Python](./600-700/674.py)|Easy|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|[Python](./600-700q/673.py)|Medium|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Python](./600-700q/673.py)|Easy|
 
 
 ##### [Problems 400-500](./400-500Q/)
