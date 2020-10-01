@@ -21,6 +21,25 @@ class Solution(object):
 				return [index, mapping[diff]]
 			else:
 				mapping[val] = index
+#Solution with the help of pointer
+class Solution(object):
+	def twoSum(self,nums,target):
+		left=0
+		right=len(nums)-1                       #sorted array so largest and smallest numbers
+		while left<right:
+			if nums[left]+nums[right]==target:
+				print(nums[left],nums[right])
+				return True
+		        elif nums[left]+nums[right]>target:
+				right-=1
+			else:
+				left+=1
+		return False
+				
+				
+				
+
+				
 
 # Space: O(N)
 # Time: O(N)
