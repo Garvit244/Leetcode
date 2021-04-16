@@ -26,3 +26,28 @@ class Solution(object):
         	mapSet[s[end]] = end+1
 
         return result 
+
+
+'''
+Alternative solution
+'''
+
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        if len(s) <= 1:
+            return len(s)
+        
+        _set = set()
+        ans = 0
+        i, j = 0, 0
+        
+        while j < len(s):
+            if s[j] not in _set:
+                _set.add(s[j])
+                j += 1
+                ans = max(ans, len(_set))
+            else:
+                _set.remove(s[i])
+                i += 1
+                
+        return ans
