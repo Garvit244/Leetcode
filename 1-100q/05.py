@@ -72,3 +72,30 @@ class Solution(object):
         		end = index +length/2
 
         return s[start:end+1]
+
+'''
+Alternative Solution
+'''
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        if not len(s): return 0
+        
+        self.longest = ""
+        i = 0
+        while i < len(s):
+            self.expandFromMiddle(i, i, s)
+            self.expandFromMiddle(i, i+1, s)
+            i += 1
+        
+        return self.longest
+            
+    def expandFromMiddle(self, left, right, word):
+        newWord = ""
+        while left >= 0 and right < len(word) and word[left] == word[right]:
+            newWord = word[left:right+1]
+            left -= 1
+            right += 1
+        if (len(self.longest) < len(newWord)):
+            self.longest = newWord
+            
