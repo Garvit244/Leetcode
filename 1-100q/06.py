@@ -39,3 +39,22 @@ class Solution(object):
         return final_string
 
 print Solution().convert("PAYPALISHIRING",3)
+
+
+'''
+Alternative Solution
+'''
+
+class Solution:
+    def convert(self, s: str, numRows: int) -> str:
+        if numRows == 1: return s
+        out = [[] for _ in range(numRows)]
+        goingDown = False
+        nextt = 0
+        for char in s:
+            out[nextt].append(char)
+            if nextt == 0 or nextt == numRows - 1:
+                goingDown = not goingDown
+            if not goingDown: nextt += 1
+            else: nextt -= 1
+        return ''.join(["".join(arr) for arr in out])
