@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-N%2F1049-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Sponsors](https://img.shields.io/badge/Sponsor-0-lightgrey.svg)
+![Language](https://img.shields.io/badge/Language-Python-orange.svg?logo=Python&logoColor=yellow) ![Update](https://img.shields.io/badge/Update-Weekly-green.svg) ![Progress](https://img.shields.io/badge/progress-N%2F1049-brightgreen.svg) ![Sponsors](https://img.shields.io/badge/Sponsor-0-lightgrey.svg)
 
 # Python solution for Leetcode
 Python solution of problems from [LeetCode](https://leetcode.com/).
@@ -210,7 +210,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | [Python](./100-200q/179.py)|Medium|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)|[Python](./100-200q/173.py)|Medium|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|[Python](./100-200q/170.py)|Easy|
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges)[Python](./100-200q/163.py)|Medium|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges)| [Python](./100-200q/163.py)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./100-200q/162.py)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./100-200q/160.py)|Easy|
 |159|[Longest Substring Which Contains 2 Unique Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|[Python](./100-200q/159.py)|Hard|
