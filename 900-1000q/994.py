@@ -72,3 +72,60 @@ class Solution(object):
         		if grid[row_index][col_index] == 1:
         			return -1
         return result
+
+    
+    
+    
+    
+'''
+Alternative Solution
+'''
+
+
+from collections import deque
+
+
+class Solution:
+    def orangesRotting(self, grid: List[List[int]]) -> int:
+        queue = deque([])
+        minutes = 0
+        found1 = False
+        
+        for row in range(len(grid)):
+            for col in range(len(grid[0])):
+                if grid[row][col] == 2:
+                    queue.append((row, col))
+                elif grid[row][col] == 1:
+                    found1 = True
+        
+        if not found1: return 0
+        if not queue: return -1
+        queue.append((None, None))
+        
+        while queue:
+            row, col = queue.popleft()
+            if row is None and col is None:
+                if queue:
+                    queue.append((None, None))
+                    minutes += 1
+            else:
+                if row + 1 < len(grid) and grid[row + 1][col] not in [2, 0]:
+                    grid[row + 1][col] = 2
+                    queue.append((row + 1, col))
+                if row - 1 >= 0 and grid[row - 1][col] not in [2, 0]:
+                    grid[row - 1][col] = 2
+                    queue.append((row - 1, col))
+                if col + 1 < len(grid[0]) and grid[row][col + 1] not in [2, 0]:
+                    grid[row][col + 1] = 2
+                    queue.append((row, col + 1))
+                if col - 1 >= 0 and grid[row][col - 1] not in [2, 0]:
+                    grid[row][col - 1] = 2
+                    queue.append((row, col - 1))
+                    
+        for row in range(len(grid)):
+            for col in range(len(grid[0])):
+                if grid[row][col] == 1:
+                    return -1
+                
+        return minutes
+        
