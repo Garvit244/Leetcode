@@ -1,3 +1,9 @@
+"""
+This is a comment
+written in
+more than just one line
+"""
+
 class Suffix(object):
 	def __init__(self):
 		self.index = 0
